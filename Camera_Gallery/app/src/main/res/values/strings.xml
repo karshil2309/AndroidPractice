@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyApp_Gen4_5</string>
+    <string name="email">Enter Your Email</string>
+    <string name="password">Enter Your password</string>
+    <string name="next">Next</string>
+    <string name="alert">Alert Dialog</string>
+
+</resources>
